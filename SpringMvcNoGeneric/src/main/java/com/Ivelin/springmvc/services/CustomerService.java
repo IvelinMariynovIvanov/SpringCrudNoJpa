@@ -6,6 +6,8 @@ import java.util.List;
 
 public interface CustomerService {
 
+   //teeees
+
    List<Customer> getAllCustomers();
 
    void deleteCustomer(int id);
